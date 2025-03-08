@@ -18,4 +18,4 @@
 ```
 
 ### 実行
-1. `auto_screenshot.py`を実行する
+1. `auto_screenshot.ipynb`を実行する
