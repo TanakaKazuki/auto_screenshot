@@ -18,4 +18,11 @@
 ```
 
 ### 実行
+- 設定値
+  - site = `サイト名`
+  - book = `書籍名`
+  - max_pages = `ページ数（必要クリック数）`
+  - direction = `クリックの向き`
+  - app_name = `ツール名`
+
 1. `auto_screenshot.ipynb`を実行する
