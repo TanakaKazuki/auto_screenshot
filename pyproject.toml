@@ -9,3 +9,8 @@ dependencies = [
     "pyautogui>=0.9.54",
     "selenium>=4.29.0",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+]
